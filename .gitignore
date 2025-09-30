@@ -36,3 +36,7 @@ $RECYCLE.BIN/
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# PlasticSCM
+.plastic/
+ignore.conf
